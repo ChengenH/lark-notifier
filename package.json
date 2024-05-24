@@ -1,6 +1,6 @@
 {
   "name": "lark-notifier",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "lark notify util",
   "main": "index.js",
   "scripts": {
