@@ -8,7 +8,7 @@ Before getting started, make sure you have obtained the `access_token` for the F
 
 ## Installation
 
-First, you need to install the project dependencies. Run the following command in the root directory of the project:
+First, you need to install the project dependencies. Run the following command in the root directory of the project:  
 
 ```bash
 npm install
